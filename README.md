@@ -29,11 +29,15 @@ Lucide Icons: For clean, modern icons (via the CDN).
 Since this is a pure HTML, CSS, and JS project with no build steps, you can use it immediately.
 Clone this repository:
 Bash
+
 git clone https://github.com/ranjitjangid/gitignore-generator.git
+
 Navigate to the project directory:
 
 Bash
+
 cd gitignore-generator
+
 Open the index.html file directly in your web browser.
 That's it! You can also use a simple server like the Live Server extension for VSCode.
 
