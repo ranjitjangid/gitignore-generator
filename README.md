@@ -28,6 +28,7 @@ Lucide Icons: For clean, modern icons (via the CDN).
 🚀 How to Use
 Since this is a pure HTML, CSS, and JS project with no build steps, you can use it immediately.
 Clone this repository:
+
 Bash
 
 git clone https://github.com/ranjitjangid/gitignore-generator.git
