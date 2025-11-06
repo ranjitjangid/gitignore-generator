@@ -42,5 +42,3 @@ cd gitignore-generator
 Open the index.html file directly in your web browser.
 That's it! You can also use a simple server like the Live Server extension for VSCode.
 
-
-Event Listeners: Standard JavaScript event listeners are used for the search bar (input), checkboxes (change), "Add Custom" button (click), copy/download buttons (click), and removing pills (click event delegation).
